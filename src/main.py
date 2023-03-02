@@ -8,6 +8,7 @@ import os
 #         pass
 
 
+
 class Party:
     name = ""
     party_members = []
